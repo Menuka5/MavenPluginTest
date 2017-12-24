@@ -25,7 +25,10 @@
     <properties>
         <project.scm.id>githubcredentials</project.scm.id>
     </properties>
-
+    <scm>
+        <developerConnection>scm:git:https://github.com/Menuka5/MavenPluginTest.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
     <build>
         <finalName>menukanows</finalName>
 
